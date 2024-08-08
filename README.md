@@ -11,7 +11,7 @@ Two datasets Used:
 
 The U.S. Census Bureau provides a comprehensive dataset capturing healthcare-related information for 83 different metropolitan areas across the United States.
  
-    2) States Abbreviation Dataset: 
+2. States Abbreviation Dataset: 
 
 
 The States Abbreviation Dataset provides a comprehensive mapping of U.S. state names to their corresponding abbreviations.
