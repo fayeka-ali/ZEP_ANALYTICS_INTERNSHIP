@@ -1,0 +1,7 @@
+﻿HEALTHCARE_INFRASTRUCTURE_ANALYSIS.pbix :  Power BI file  
+
+
+MetroHealth83.csv : Main Dataset which provides the healthcare-related information for 83 different metropolitan areas across the United States. 
+
+
+States.csv : Supplementary Dataset which provides a comprehensive mapping of U.S. state names to their corresponding abbreviations.
